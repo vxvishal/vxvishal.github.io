@@ -5,7 +5,3 @@ Landing Page | About Page
 :---------:|:------------:
 ![](/src/readme/landing.png)|![](/src/readme/about.png)
 
-## Design
-The site was designed and prototyped in Sketch, the final design went through multiple iterations.
-
-![sketch designs](/src/readme/sketch.png)
